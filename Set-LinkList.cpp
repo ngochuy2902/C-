@@ -4,7 +4,7 @@ using namespace std;
 struct Node
 {
 	int data;
-	Node* next;
+	Node* next;;;;
 };
 typedef struct Node* pNode;
 class Set
